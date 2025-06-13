@@ -22,20 +22,20 @@ Este repositório contém o material e o projeto desenvolvido para a disciplina 
 
 Como projeto final e aplicação prática dos conceitos de POO em Java, desenvolvi um **Sistema de Gestão de Financiamentos**. Este projeto demonstra a capacidade de criar classes especializadas para diferentes tipos de imóveis (casa, apartamento, terreno), implementar validação e tratamento de dados, e aplicar diferentes lógicas de cálculo para o valor de pagamento mensal de cada financiamento.
 
-### Funcionalidades Implementadas:
+### ✅ Funcionalidades Implementadas:
 
 * **Entrada de Dados:** Informar valores de financiamento, prazos e taxas de juros anuais.
 * **Especificações por Financiamento:** Especificações únicas para Casa, Apartamento e Terreno.
 * **Cálculo Personalizado:** Cálculo do valor de pagamento mensal com base em fórmulas distintas para cada tipo de financiamento.
 * **Resultados Consolidados:** Exibição do valor total dos financiamentos e o custo geral dos imóveis.
 
-### Arquivo Principal:
+### 📂 Arquivo Principal:
 
 A lógica principal e a execução do projeto estão contidas no diretório: [`Somativa2_Semana8.java`](./Somativa2_Semana8.java)
 
 ---
 
-## Como Rodar o Projeto
+## 🚀 Como Executar
 
 Para executar o projeto `Somativa2_Semana8.java`, certifique-se de ter o **Java Development Kit (JDK)** instalado em sua máquina.
 
