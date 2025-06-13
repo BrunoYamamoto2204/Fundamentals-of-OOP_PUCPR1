@@ -1,0 +1,24 @@
+Valor da casa: 50000000,00
+Valor do pagamento: 50426266,67
+Valor dos juros(%): 10,00
+Valor do Prazo(Anos): 10
+Área da casa: 1.0
+Área do terreno da casa: 1.0
+
+
+Valor do apartamento: 50000000,00
+Valor do pagamento: 79290442,13
+Valor dos juros(%): 10,00
+Valor do Prazo(Anos): 10
+Número de vagas: 12
+Número do apartamento: 2
+
+
+Valor do terreno: 50000000,00
+Valor do pagamento: 51425000,00
+Valor dos juros(%): 10,00
+Valor do Prazo(Anos): 10
+Tipo da zona: r
+
+
+------------------------------
